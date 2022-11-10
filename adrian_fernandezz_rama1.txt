@@ -1,2 +1,4 @@
 Nuevo doc en rama
 Nueva linea en doc1
+Añado linea 1 a rama1.txt
+Añado linea 2 a rama1.txt
